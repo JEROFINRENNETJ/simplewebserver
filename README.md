@@ -126,10 +126,10 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-Webpage
+WEBPAGE
 ![alt text](image.png)
 
-server page
+SERVER PAGE
 ![alt text](image-1.png)
 
 ## RESULT:
